@@ -68,6 +68,11 @@
         <td>Python 3.9</td>
         <td>✔</td>
     </tr>
+    <tr>
+        <td><a href="./solutions/task2_4.py">Калькулятор</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
     </tbody>
 </table>
 <a href="#Оглавление">:arrow_up: Оглавление</a>
