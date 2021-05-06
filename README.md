@@ -196,9 +196,49 @@
     </thead>
     <tbody>
     <tr>
-        <td>null</td>
-        <td>null</td>
-        <td>null</td>
+        <td><a href="solutions/task5_1.py">Отношение</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task5_2.py">Клиппи и Мерлин грабят банк</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task5_3.py">Торговля акциями</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task5_4.py">Сумма подряд идущих</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task5_5.py">Новый маршрут для трекинга</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task5_7.py">Сумма чисел в массиве</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task5_8.py">Город Че</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task5_9.py">Стильная одежда</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task5_10.py">Красота превыше всего</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
     </tr>
     </tbody>
 </table>
