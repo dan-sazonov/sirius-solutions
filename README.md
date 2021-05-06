@@ -132,9 +132,54 @@
     </thead>
     <tbody>
     <tr>
-        <td>null</td>
-        <td>null</td>
-        <td>null</td>
+        <td><a href="solutions/task4_1.py">Проверка числа на простоту</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task4_2.py">Минимальный простой делитель</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task4_3.py">Числовые функции</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>   
+    <tr>
+        <td><a href="solutions/task4_a.py">Функция Эйлера</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task4_9.py">Обратное число</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task4_10.py">Делители</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task4_11.py">Разложение на чётнопростые</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task4_12.py">Делители факториала</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task4_13.py">Суперчисла</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task4_14.py">Забавная игра</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
     </tr>
     </tbody>
 </table>
