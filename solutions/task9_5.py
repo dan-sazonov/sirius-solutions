@@ -1,0 +1,5 @@
+f_len = int(input())
+first = list(map(int, input().split()))
+s_len = int(input())
+second = list(map(int, input().split()))
+print('YES' if set(first) == set(second) else 'NO')
