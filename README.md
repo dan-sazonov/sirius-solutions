@@ -255,9 +255,34 @@
     </thead>
     <tbody>
     <tr>
-        <td>null</td>
-        <td>null</td>
-        <td>null</td>
+        <td><a href="solutions/task6_1.py">Великое Лайнландское переселение</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task6_2.py">Гистограмма</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task6_3.py">Прямоугольники</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task6_4.py">Минимум на отрезке</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task6_6.py">Небоскрёбы</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task6_7.py">Сообщающиеся сосуды</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
     </tr>
     </tbody>
 </table>
