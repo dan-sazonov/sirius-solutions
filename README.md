@@ -348,9 +348,24 @@
     </thead>
     <tbody>
     <tr>
-        <td>null</td>
-        <td>null</td>
-        <td>null</td>
+        <td><a href="solutions/task8_5.py">Количество обменов</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task8_6.py">Ровно К обменов</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task8_8.py">Библиотечный метод</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task8_10.py">Результаты олимпиады</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
     </tr>
     </tbody>
 </table>
