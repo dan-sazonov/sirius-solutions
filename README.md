@@ -88,6 +88,11 @@
     </thead>
     <tbody>
     <tr>
+        <td><a href="solutions/task3_4.py">Вася строит дом</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
         <td><a href="solutions/task3_5.py">Обратное число</a></td>
         <td>Python 3.9</td>
         <td>✔</td>
