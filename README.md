@@ -299,9 +299,39 @@
     </thead>
     <tbody>
     <tr>
-        <td>null</td>
-        <td>null</td>
-        <td>null</td>
+        <td><a href="solutions/task7_1.py">Стек с защитой от ошибок</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task7_2.py">Правильная скобочная последовательность</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task7_3.py">Постфиксная запись</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task7_4.py">Сортировка вагонов</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task7_6.py">Очередь с защитой от ошибок</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task7_7.py">Игра в пьяницу</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td><a href="solutions/task7_9.py">Дек с защитой от ошибок</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
     </tr>
     </tbody>
 </table>
