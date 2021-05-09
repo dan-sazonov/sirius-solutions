@@ -74,6 +74,11 @@
         <td>✔</td>
     </tr>
     <tr>
+        <td><a href="./solutions/task2_5.py">Без двух нулей подряд</a></td>
+        <td>Python 3.9</td>
+        <td>✔</td>
+    </tr>
+    <tr>
         <td><a href="./solutions/task2_6.py">Без трёх единиц</a></td>
         <td>Python 3.9</td>
         <td>✔</td>
