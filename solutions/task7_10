@@ -1,0 +1,64 @@
+class QueueToShaman:
+  def __init__(self):
+    self.tail = None
+    self.head = None
+    self.middle = None
+    self.length = 0
+  def __iter__(self):
+    goblin = self.head
+    while goblin is not None:
+      yield goblin
+      goblin = goblin.next
+  def add_goblin(self, goblin):
+    if self.head is None:
+      self.head = goblin
+      self.tail = goblin
+      self.middle = goblin
+    else:
+      self.tail.next = goblin
+      self.tail = goblin
+      if self.length % 2 == 0:
+        self.middle = self.middle.next
+    self.length += 1
+  def pop_goblin(self):
+    poping = self.head
+    self.head = poping.next
+    if self.length % 2 == 0:
+      self.middle = self.middle.next
+    self.length -= 1
+    return poping.number
+  def add_vipgoblin(self, vipgoblin):
+    if self.head is None:
+      self.add_goblin(vipgoblin)
+      return
+    elif self.length == 1:
+      self.head.next = vipgoblin
+      vipgoblin.next = None
+      self.tail = vipgoblin
+    else:
+      vipgoblin.next = self.middle.next
+      self.middle.next = vipgoblin
+      if self.length % 2 == 0:
+        self.middle = vipgoblin
+    self.length += 1
+
+class Goblin:
+  def __init__(self, number):
+    self.number = number
+    self.next = None
+  def __repr__(self):
+    return self.number
+
+def main():
+  n = int(input())
+  queue = QueueToShaman()
+  for i in range(n):
+    command = list(map(str, input().split()))
+    if command[0] == "+":
+      queue.add_goblin(Goblin(int(command[1])))
+    elif command[0] == "-":
+      print(queue.pop_goblin())
+    elif command[0] == "*":
+      queue.add_vipgoblin(Goblin(int(command[1])))
+if __name__ == "__main__":
+    main()
